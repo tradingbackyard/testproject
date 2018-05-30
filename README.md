@@ -1,7 +1,8 @@
 # test project
 
 Here's what I need:
-1. user can upload a CSV to browser
+1. user can upload a CSV to browser (You can pull CSV from here https://raw.githubusercontent.com/tradingbackyard/historicaldata/master/AUDCAD_D_BID.csv 
+or https://github.com/tradingbackyard/historicaldata)
 2. CSV is parse into an array of rows (high, low, open, close, date/time)
 3. Then we have a function that draw each data element as a candlestick 
 4. We can change the color of candle sticks from variables set
